@@ -4,7 +4,7 @@ import React from 'react'
 const Users = () => {
    return (
       <>
-         <div>Users</div>
+         <div>Users List</div>
          <li>
             <Link href={"/dashboard/users/1"}>Users 1</Link>
             <Link href={"/dashboard/users/2"}>Users 2</Link>
